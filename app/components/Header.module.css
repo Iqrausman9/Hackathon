@@ -1,0 +1,22 @@
+/* Header.module.css */
+.navbar {
+    background-color: #f8f9fa; /* Customize as needed */
+    padding: 1rem;
+  }
+  
+  .navLink {
+    color: #007bff;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .navLink:hover {
+    color: #0056b3;
+  }
+  
+  .brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
